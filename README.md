@@ -13,7 +13,8 @@ Eine moderne, im iOS-Style gehaltene To-Do und Task-Tracking App, geschrieben in
 * JavaFX
 
 ## 📸 Screenshots
-*(Hier später einfach ein Bild von der laufenden App reinziehen!)*
+*(<img width="591" height="909" alt="Screenshot 2026-03-31 182745" src="https://github.com/user-attachments/assets/92761893-2f87-4848-8ebd-f20cb17d47b0" />)*
+
 
 ## 🚀 Wie man es startet
 1. Repository klonen: `git clone [Deine Repo URL]`
